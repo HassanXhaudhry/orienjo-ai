@@ -1,0 +1,10 @@
+.dashboard{
+    margin: 0 auto;
+    min-height: 100vh;
+}
+.dashboard {
+    display: flex;
+    height: 100vh;
+  }
+  
+ 
