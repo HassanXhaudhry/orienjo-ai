@@ -175,20 +175,26 @@ const Dashboard = () => {
 
             {/* New Search and Table Section */}
             <div style={{ ...formContainerStyle, marginTop: "20px" }}>
-            <div style={{display:'flex', justifyContent:'space-between', alignItems:'center'}}>
-              <h2 style={{ textAlign: "left", marginBottom: "20px" }}>
-                United Kingdom
-              </h2>
-              <div style={{ width: "100%", maxWidth: "100px" }}>
-                    <button
-                      type="submit"
-                      style={buttonStyle}
-                      disabled={!isChecked}
-                    >
-                      Add City
-                    </button>
-                  </div>
-                </div>  
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "space-between",
+                  alignItems: "center",
+                }}
+              >
+                <h2 style={{ textAlign: "left", marginBottom: "20px" }}>
+                  United Kingdom
+                </h2>
+                <div style={{ width: "100%", maxWidth: "100px" }}>
+                  <button
+                    type="submit"
+                    style={buttonStyle}
+                    disabled={!isChecked}
+                  >
+                    Add City
+                  </button>
+                </div>
+              </div>
               <input
                 type="text"
                 value={searchTerm}

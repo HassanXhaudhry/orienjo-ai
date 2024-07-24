@@ -4,11 +4,11 @@ import { Box, IconButton, Typography } from "@mui/material";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import logo from "../assets/logo.jpg";
 import ChatIcon from "@mui/icons-material/Chat";
-import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
-import PublicIcon from '@mui/icons-material/Public';
-import EventIcon from '@mui/icons-material/Event';
-import GroupIcon from '@mui/icons-material/Group';
-import SettingsIcon from '@mui/icons-material/Settings';
+import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
+import PublicIcon from "@mui/icons-material/Public";
+import EventIcon from "@mui/icons-material/Event";
+import GroupIcon from "@mui/icons-material/Group";
+import SettingsIcon from "@mui/icons-material/Settings";
 
 const Sidebarr = () => {
   const [isCollapsed, setIsCollapsed] = useState(false);
@@ -20,20 +20,28 @@ const Sidebarr = () => {
           display="flex"
           justifyContent="space-between"
           alignItems="center"
-          paddingBottom='20px'
+          paddingBottom="20px"
         >
           {!isCollapsed && <Typography>{title}</Typography>}
           <IconButton size="small" color="inherit">
             {icon}
           </IconButton>
         </Box>
-        {!isCollapsed && subItems.map((item, index) => (
-          <Typography key={index} color="gray" style={{cursor:'pointer', padding: "2px 0px 2px 0px" }}  sx={{
-            '&:hover': {
-              color: '#FF8C00',
-            },
-          }}>{item}</Typography>
-        ))}
+        {!isCollapsed &&
+          subItems.map((item, index) => (
+            <Typography
+              key={index}
+              color="gray"
+              style={{ cursor: "pointer", padding: "2px 0px 2px 0px" }}
+              sx={{
+                "&:hover": {
+                  color: "#FF8C00",
+                },
+              }}
+            >
+              {item}
+            </Typography>
+          ))}
         {!isCollapsed && !isLast && (
           <hr
             style={{
@@ -55,7 +63,7 @@ const Sidebarr = () => {
         "& .ps-sidebar-container": {
           height: "100% !important",
           overflowY: "auto",
-          backgroundColor: "#ffffff !important"
+          backgroundColor: "#ffffff !important",
         },
         "& .pro-sidebar-inner": {
           backgroundColor: "#ffffff",
@@ -118,19 +126,29 @@ const Sidebarr = () => {
                   margin: "-10px -0px 20px -5px",
                 }}
               />
-              <Typography pb="20px" textAlign='center' fontWeight='bold'> My Dashboard </Typography>
+              <Typography pb="20px" textAlign="center" fontWeight="bold">
+                {" "}
+                My Dashboard{" "}
+              </Typography>
               <Box
                 display="flex"
                 justifyContent="space-between"
                 alignItems="center"
               >
-                <Typography color="gray" style={{ cursor:"pointer"}}  sx={{
-            '&:hover': {
-              color: '#FF8C00',
-            },
-          }}> Chat </Typography>
+                <Typography
+                  color="gray"
+                  style={{ cursor: "pointer" }}
+                  sx={{
+                    "&:hover": {
+                      color: "#FF8C00",
+                    },
+                  }}
+                >
+                  {" "}
+                  Chat{" "}
+                </Typography>
                 <IconButton size="small" color="inherit">
-                  <ChatIcon fontSize="small" style={{ color: 'gray' }}/>
+                  <ChatIcon fontSize="small" style={{ color: "gray" }} />
                 </IconButton>
               </Box>
               <hr
@@ -141,11 +159,32 @@ const Sidebarr = () => {
               />
             </Box>
           )}
-          {renderMenuItem("Art Shop", <ShoppingCartIcon fontSize="small" style={{ color: 'gray'}}/>, ["Orders", "Products", "Categories", "Shipping"])}
-          {renderMenuItem("Trips", <PublicIcon fontSize="small" style={{ color: 'gray' }}/>, ["Sineries", "Tags", "Hotel Booking"])}
-          {renderMenuItem("Events", <EventIcon fontSize="small" style={{ color: 'gray' }}/>, ["Hi Events"])}
-          {renderMenuItem("Users", <GroupIcon fontSize="small" style={{ color: 'gray' }}/>, ["Manage", "Report Submission", "Notifications"])}
-          {renderMenuItem("General Configurations", <SettingsIcon fontSize="small" style={{ color: 'gray' }}/>, ["Email Templates", "Countries"], true)}
+          {renderMenuItem(
+            "Art Shop",
+            <ShoppingCartIcon fontSize="small" style={{ color: "gray" }} />,
+            ["Orders", "Products", "Categories", "Shipping"]
+          )}
+          {renderMenuItem(
+            "Trips",
+            <PublicIcon fontSize="small" style={{ color: "gray" }} />,
+            ["Sineries", "Tags", "Hotel Booking"]
+          )}
+          {renderMenuItem(
+            "Events",
+            <EventIcon fontSize="small" style={{ color: "gray" }} />,
+            ["Hi Events"]
+          )}
+          {renderMenuItem(
+            "Users",
+            <GroupIcon fontSize="small" style={{ color: "gray" }} />,
+            ["Manage", "Report Submission", "Notifications"]
+          )}
+          {renderMenuItem(
+            "General Configurations",
+            <SettingsIcon fontSize="small" style={{ color: "gray" }} />,
+            ["Email Templates", "Countries"],
+            true
+          )}
         </Menu>
       </Sidebar>
     </Box>
