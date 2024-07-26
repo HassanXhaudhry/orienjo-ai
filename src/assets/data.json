@@ -1,0 +1,4371 @@
+{
+  "Afghanistan": [
+    {
+      "region": "North",
+      "placename": "Mazar-i-Sharif",
+      "description": "Known for the stunning Blue Mosque, a major pilgrimage site.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Balkh",
+      "description": "An ancient city with rich history and archaeological sites.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Samangan",
+      "description": "Famous for the Takht-e-Rostam, a Buddhist stupa and monastery.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Sheberghan",
+      "description": "Known for its historical significance and ancient ruins.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Kunduz",
+      "description": "A city with a mix of modern and historical attractions.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Badakhshan",
+      "description": "Home to the beautiful Wakhan Corridor and Pamir Mountains.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Taloqan",
+      "description": "A city with lush greenery and historical sites.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Baghlan",
+      "description": "Known for its scenic landscapes and historical significance.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Pul-e-Khumri",
+      "description": "A city surrounded by beautiful mountains and rivers.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Faryab",
+      "description": "Offers a mix of cultural heritage and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Kandahar",
+      "description": "The cultural and historical heart of southern Afghanistan.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Lashkar Gah",
+      "description": "Known for its ancient ruins and historical significance.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Zaranj",
+      "description": "A city with a rich history and cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Tirin Kot",
+      "description": "Offers a glimpse into traditional Afghan life and culture.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Qalat",
+      "description": "Known for its historical fort and scenic landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Ghazni",
+      "description": "A city with a rich history and numerous archaeological sites.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Sharan",
+      "description": "Offers beautiful landscapes and a peaceful environment.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Khost",
+      "description": "Known for its lush greenery and scenic beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Gardez",
+      "description": "A city with historical significance and beautiful landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Farah",
+      "description": "Offers a mix of historical sites and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Jalalabad",
+      "description": "Known for its lush greenery and historical sites.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Asadabad",
+      "description": "Offers beautiful landscapes and a peaceful environment.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Kunar",
+      "description": "Known for its stunning natural beauty and mountainous terrain.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Laghman",
+      "description": "Offers a mix of cultural heritage and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Nangarhar",
+      "description": "Known for its lush valleys and historical significance.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Khost",
+      "description": "A city with beautiful landscapes and rich cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Paktia",
+      "description": "Offers scenic beauty and historical sites.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Paktika",
+      "description": "Known for its rugged terrain and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Parun",
+      "description": "A remote city with stunning natural landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Nuristan",
+      "description": "Known for its unique culture and beautiful landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Herat",
+      "description": "A city with rich history, beautiful architecture, and cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Badghis",
+      "description": "Known for its scenic landscapes and historical significance.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Farah",
+      "description": "Offers a mix of historical sites and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Ghor",
+      "description": "Known for its ancient ruins and beautiful landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Chaghcharan",
+      "description": "Offers stunning natural beauty and a peaceful environment.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Qala-e-Naw",
+      "description": "A city with historical significance and scenic beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Firozkoh",
+      "description": "Known for its historical sites and beautiful landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Shindand",
+      "description": "Offers a mix of cultural heritage and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Zaranj",
+      "description": "A city with a rich history and cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Bamyan",
+      "description": "Known for the famous Buddha statues and stunning landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Mazar-i-Sharif",
+      "description": "Known for the stunning Blue Mosque, a major pilgrimage site.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Balkh",
+      "description": "An ancient city with rich history and archaeological sites.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Samangan",
+      "description": "Famous for the Takht-e-Rostam, a Buddhist stupa and monastery.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Sheberghan",
+      "description": "Known for its historical significance and ancient ruins.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Kunduz",
+      "description": "A city with a mix of modern and historical attractions.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Badakhshan",
+      "description": "Home to the beautiful Wakhan Corridor and Pamir Mountains.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Taloqan",
+      "description": "A city with lush greenery and historical sites.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Baghlan",
+      "description": "Known for its scenic landscapes and historical significance.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Pul-e-Khumri",
+      "description": "A city surrounded by beautiful mountains and rivers.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "North",
+      "placename": "Faryab",
+      "description": "Offers a mix of cultural heritage and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Kandahar",
+      "description": "The cultural and historical heart of southern Afghanistan.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Lashkar Gah",
+      "description": "Known for its ancient ruins and historical significance.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Zaranj",
+      "description": "A city with a rich history and cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Tirin Kot",
+      "description": "Offers a glimpse into traditional Afghan life and culture.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Qalat",
+      "description": "Known for its historical fort and scenic landscapes.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Ghazni",
+      "description": "A city with a rich history and numerous archaeological sites.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Sharan",
+      "description": "Offers beautiful landscapes and a peaceful environment.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Khost",
+      "description": "Known for its lush greenery and scenic beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Gardez",
+      "description": "A city with historical significance and beautiful landscapes.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "South",
+      "placename": "Farah",
+      "description": "Offers a mix of historical sites and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Jalalabad",
+      "description": "Known for its lush greenery and historical sites.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Asadabad",
+      "description": "Offers beautiful landscapes and a peaceful environment.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Kunar",
+      "description": "Known for its stunning natural beauty and mountainous terrain.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Laghman",
+      "description": "Offers a mix of cultural heritage and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Nangarhar",
+      "description": "Known for its lush valleys and historical significance.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Khost",
+      "description": "A city with beautiful landscapes and rich cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Paktia",
+      "description": "Offers scenic beauty and historical sites.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Paktika",
+      "description": "Known for its rugged terrain and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Parun",
+      "description": "A remote city with stunning natural landscapes.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "East",
+      "placename": "Nuristan",
+      "description": "Known for its unique culture and beautiful landscapes.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Herat",
+      "description": "A city with rich history, beautiful architecture, and cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Badghis",
+      "description": "Known for its scenic landscapes and historical significance.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Farah",
+      "description": "Offers a mix of historical sites and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Ghor",
+      "description": "Known for its ancient ruins and beautiful landscapes.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Chaghcharan",
+      "description": "Offers stunning natural beauty and a peaceful environment.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Qala-e-Naw",
+      "description": "A city with historical significance and scenic beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Firozkoh",
+      "description": "Known for its historical sites and beautiful landscapes.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Shindand",
+      "description": "Offers a mix of cultural heritage and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Zaranj",
+      "description": "A city with a rich history and cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    },
+    {
+      "region": "West",
+      "placename": "Bamyan",
+      "description": "Known for the famous Buddha statues and stunning landscapes.",
+      "main_island": "Island",
+      "country_name": "Afghanistan"
+    }
+  ],
+  "Armenia": [
+    {
+      "region": "North",
+      "placename": "Dilijan",
+      "description": "Known as the 'Armenian Switzerland', this town is famous for its lush forests and serene atmosphere.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Lake Sevan",
+      "description": "One of the largest freshwater high-altitude lakes in the world, perfect for swimming and boating.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Haghartsin Monastery",
+      "description": "A beautiful 13th-century monastery nestled in the forested mountains.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Goshavank Monastery",
+      "description": "A historic monastery complex with stunning architecture and scenic surroundings.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Parz Lake",
+      "description": "A small, picturesque lake ideal for picnics and relaxation.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Ijevan",
+      "description": "A charming town known for its wine production and beautiful landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Lastiver Caves",
+      "description": "A series of ancient caves and waterfalls, perfect for hiking and exploring.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Makaravank Monastery",
+      "description": "A 10th-century monastery with intricate stone carvings and a peaceful setting.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Dilijan National Park",
+      "description": "A protected area with diverse flora and fauna, ideal for nature lovers.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Tsaghkadzor",
+      "description": "A popular ski resort town with beautiful mountain views and outdoor activities.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Tatev Monastery",
+      "description": "A 9th-century monastery perched on a cliff, accessible by the world's longest cable car.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Noravank Monastery",
+      "description": "A stunning 13th-century monastery set in a dramatic red rock canyon.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Jermuk",
+      "description": "A spa town known for its hot springs and beautiful waterfalls.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Shaki Waterfall",
+      "description": "A picturesque waterfall located near the town of Sisian.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Karahunj (Zorats Karer)",
+      "description": "An ancient archaeological site often referred to as the 'Armenian Stonehenge'.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Goris",
+      "description": "A charming town with unique rock formations and historic cave dwellings.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Khndzoresk",
+      "description": "A village famous for its ancient cave settlements and a swinging bridge.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Areni",
+      "description": "A village known for its wine production and the nearby Areni-1 cave complex.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Vorotan Gorge",
+      "description": "A stunning gorge with deep canyons and scenic hiking trails.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Smbataberd Fortress",
+      "description": "A medieval fortress offering panoramic views of the surrounding landscape.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Kapan",
+      "description": "A city surrounded by mountains, known for its beautiful landscapes and historic sites.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Shikahogh State Reserve",
+      "description": "A protected area with diverse wildlife and lush forests.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Vahanavank Monastery",
+      "description": "A 10th-century monastery located in a picturesque setting.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Meghri",
+      "description": "A town with a unique climate, known for its fruit orchards and historic churches.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Halidzor Fortress",
+      "description": "A medieval fortress offering stunning views of the surrounding area.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Baghaberd Fortress",
+      "description": "An ancient fortress with panoramic views of the Voghji River valley.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Khustup Mountain",
+      "description": "A popular destination for hiking and mountaineering.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Artsvanik Reservoir",
+      "description": "A scenic reservoir ideal for fishing and picnicking.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Kajaran",
+      "description": "A town known for its mining industry and beautiful natural surroundings.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Vahanavank Monastery",
+      "description": "A historic monastery complex with stunning architecture and scenic surroundings.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Gyumri",
+      "description": "Armenia's second-largest city, known for its rich cultural heritage and historic architecture.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Marmashen Monastery",
+      "description": "A beautiful 10th-century monastery located near the Akhuryan River.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Harichavank Monastery",
+      "description": "A medieval monastery complex with stunning views of the surrounding landscape.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Ani Viewpoint",
+      "description": "A viewpoint offering panoramic views of the ancient city of Ani, located just across the border in Turkey.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Akhurian River",
+      "description": "A scenic river ideal for fishing and picnicking.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Arpi Lake",
+      "description": "A high-altitude lake known for its birdwatching opportunities and beautiful scenery.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Gyumri Central Park",
+      "description": "A large park in the heart of Gyumri, perfect for a leisurely stroll.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Black Fortress",
+      "description": "A historic fortress offering panoramic views of Gyumri and the surrounding area.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Gyumri City Museum",
+      "description": "A museum showcasing the history and culture of Gyumri.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Sev Berd",
+      "description": "A historic fortress with stunning views of the surrounding landscape.",
+      "main_island": "Mainland",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Dilijan",
+      "description": "Known as the 'Armenian Switzerland', this town is famous for its lush forests and serene atmosphere.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Lake Sevan",
+      "description": "One of the largest freshwater high-altitude lakes in the world, perfect for swimming and boating.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Haghartsin Monastery",
+      "description": "A beautiful 13th-century monastery nestled in the forested mountains.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Goshavank Monastery",
+      "description": "A historic monastery complex with stunning architecture and scenic surroundings.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Parz Lake",
+      "description": "A small, picturesque lake ideal for picnics and relaxation.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Ijevan",
+      "description": "A charming town known for its wine production and beautiful landscapes.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Lastiver Caves",
+      "description": "A series of ancient caves and waterfalls, perfect for hiking and exploring.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Makaravank Monastery",
+      "description": "A 10th-century monastery with intricate stone carvings and a peaceful setting.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Dilijan National Park",
+      "description": "A protected area with diverse flora and fauna, ideal for nature lovers.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "North",
+      "placename": "Tsaghkadzor",
+      "description": "A popular ski resort town with beautiful mountain views and outdoor activities.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Tatev Monastery",
+      "description": "A 9th-century monastery perched on a cliff, accessible by the world's longest cable car.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Noravank Monastery",
+      "description": "A stunning 13th-century monastery set in a dramatic red rock canyon.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Jermuk",
+      "description": "A spa town known for its hot springs and beautiful waterfalls.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Shaki Waterfall",
+      "description": "A picturesque waterfall located near the town of Sisian.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Karahunj (Zorats Karer)",
+      "description": "An ancient archaeological site often referred to as the 'Armenian Stonehenge'.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Goris",
+      "description": "A charming town with unique rock formations and historic cave dwellings.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Khndzoresk",
+      "description": "A village famous for its ancient cave settlements and a swinging bridge.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Areni",
+      "description": "A village known for its wine production and the nearby Areni-1 cave complex.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Vorotan Gorge",
+      "description": "A stunning gorge with deep canyons and scenic hiking trails.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "South",
+      "placename": "Smbataberd Fortress",
+      "description": "A medieval fortress offering panoramic views of the surrounding landscape.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Kapan",
+      "description": "A city surrounded by mountains, known for its beautiful landscapes and historic sites.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Shikahogh State Reserve",
+      "description": "A protected area with diverse wildlife and lush forests.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Vahanavank Monastery",
+      "description": "A 10th-century monastery located in a picturesque setting.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Meghri",
+      "description": "A town with a unique climate, known for its fruit orchards and historic churches.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Halidzor Fortress",
+      "description": "A medieval fortress offering stunning views of the surrounding area.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Baghaberd Fortress",
+      "description": "An ancient fortress with panoramic views of the Voghji River valley.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Khustup Mountain",
+      "description": "A popular destination for hiking and mountaineering.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Artsvanik Reservoir",
+      "description": "A scenic reservoir ideal for fishing and picnicking.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Kajaran",
+      "description": "A town known for its mining industry and beautiful natural surroundings.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "East",
+      "placename": "Vahanavank Monastery",
+      "description": "A historic monastery complex with stunning architecture and scenic surroundings.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Gyumri",
+      "description": "Armenia's second-largest city, known for its rich cultural heritage and historic architecture.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Marmashen Monastery",
+      "description": "A beautiful 10th-century monastery located near the Akhuryan River.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Harichavank Monastery",
+      "description": "A medieval monastery complex with stunning views of the surrounding landscape.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Ani Viewpoint",
+      "description": "A viewpoint offering panoramic views of the ancient city of Ani, located just across the border in Turkey.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Akhurian River",
+      "description": "A scenic river ideal for fishing and picnicking.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Arpi Lake",
+      "description": "A high-altitude lake known for its birdwatching opportunities and beautiful scenery.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Gyumri Central Park",
+      "description": "A large park in the heart of Gyumri, perfect for a leisurely stroll.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Black Fortress",
+      "description": "A historic fortress offering panoramic views of Gyumri and the surrounding area.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Gyumri City Museum",
+      "description": "A museum showcasing the history and culture of Gyumri.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    },
+    {
+      "region": "West",
+      "placename": "Sev Berd",
+      "description": "A historic fortress with stunning views of the surrounding landscape.",
+      "main_island": "Island",
+      "country_name": "Armenia"
+    }
+  ],
+  "Azerbaijan": [
+    {
+      "region": "North",
+      "placename": "Quba",
+      "description": "Known for its apple orchards and the stunning Qechresh forest.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Khinalug",
+      "description": "One of the oldest continuously inhabited places in the world.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Guba Genocide Memorial Complex",
+      "description": "A historical site commemorating the victims of the 1918 massacre.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Afurdzhi Waterfall",
+      "description": "A beautiful natural waterfall located in the Guba region.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Tengalti Canyon",
+      "description": "A picturesque canyon ideal for hiking and nature walks.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Gachrash Forest",
+      "description": "A dense forest perfect for picnics and nature lovers.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Qechresh",
+      "description": "A small village known for its scenic beauty and traditional lifestyle.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Shahdag Mountain Resort",
+      "description": "A popular destination for skiing and winter sports.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Laza Village",
+      "description": "A charming village with stunning waterfalls and hiking trails.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Guba Carpet Weaving Factory",
+      "description": "A place to see traditional Azerbaijani carpet weaving.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Lankaran",
+      "description": "A coastal city known for its thermal springs and historical sites.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Hirkan National Park",
+      "description": "A UNESCO World Heritage site with unique flora and fauna.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Astara",
+      "description": "A border town with beautiful beaches and lush landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Masalli",
+      "description": "Famous for its hot springs and therapeutic mud baths.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Yanar Bulag",
+      "description": "A natural spring with water that appears to be on fire.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Gizil-Agach State Reserve",
+      "description": "A protected area known for its diverse bird species.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Lerik",
+      "description": "A mountainous region known for its long-living residents and scenic views.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Istisu",
+      "description": "A popular spa town with natural hot springs.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Vilash Reservoir",
+      "description": "A large reservoir ideal for fishing and boating.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Mughan Plain",
+      "description": "A vast plain known for its agricultural significance.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Baku",
+      "description": "The capital city known for its modern architecture and historical sites.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Gobustan National Park",
+      "description": "Famous for its ancient rock carvings and mud volcanoes.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Absheron National Park",
+      "description": "A protected area with diverse wildlife and scenic landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Ateshgah Fire Temple",
+      "description": "A historical temple known for its eternal flame.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Yanardag",
+      "description": "A natural gas fire that blazes continuously on a hillside.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Nabran",
+      "description": "A popular seaside resort with beautiful beaches and recreational facilities.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Khizi",
+      "description": "Known for its unique red mountains and picturesque landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Shamakhi",
+      "description": "A historical city with ancient mosques and observatories.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Ganja",
+      "description": "The second-largest city with rich history and cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Naftalan",
+      "description": "A unique spa town known for its therapeutic oil baths.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Sheki",
+      "description": "A historical city known for its ancient architecture and silk production.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Kish",
+      "description": "A small village with an ancient Albanian church.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Gakh",
+      "description": "A region known for its natural beauty and historical sites.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Zagatala",
+      "description": "A picturesque town with lush forests and mountain views.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Balakan",
+      "description": "A region with beautiful landscapes and cultural diversity.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Gabala",
+      "description": "A popular tourist destination with a variety of recreational activities.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Ismayilli",
+      "description": "Known for its scenic landscapes and traditional crafts.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Lahij",
+      "description": "A mountain village famous for its copper craftsmanship.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Oguz",
+      "description": "A region with beautiful nature and historical monuments.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Mingachevir",
+      "description": "A city known for its large reservoir and hydroelectric power station.",
+      "main_island": "Mainland",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Quba",
+      "description": "Known for its apple orchards and the stunning Qechresh forest.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Khinalug",
+      "description": "One of the oldest continuously inhabited places in the world.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Guba Genocide Memorial Complex",
+      "description": "A historical site commemorating the victims of the 1918 massacre.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Afurdzhi Waterfall",
+      "description": "A beautiful natural waterfall located in the Guba region.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Tengalti Canyon",
+      "description": "A picturesque canyon ideal for hiking and nature walks.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Gachrash Forest",
+      "description": "A dense forest perfect for picnics and nature lovers.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Qechresh",
+      "description": "A small village known for its scenic beauty and traditional lifestyle.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Shahdag Mountain Resort",
+      "description": "A popular destination for skiing and winter sports.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Laza Village",
+      "description": "A charming village with stunning waterfalls and hiking trails.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "North",
+      "placename": "Guba Carpet Weaving Factory",
+      "description": "A place to see traditional Azerbaijani carpet weaving.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Lankaran",
+      "description": "A coastal city known for its thermal springs and historical sites.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Hirkan National Park",
+      "description": "A UNESCO World Heritage site with unique flora and fauna.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Astara",
+      "description": "A border town with beautiful beaches and lush landscapes.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Masalli",
+      "description": "Famous for its hot springs and therapeutic mud baths.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Yanar Bulag",
+      "description": "A natural spring with water that appears to be on fire.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Gizil-Agach State Reserve",
+      "description": "A protected area known for its diverse bird species.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Lerik",
+      "description": "A mountainous region known for its long-living residents and scenic views.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Istisu",
+      "description": "A popular spa town with natural hot springs.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Vilash Reservoir",
+      "description": "A large reservoir ideal for fishing and boating.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "South",
+      "placename": "Mughan Plain",
+      "description": "A vast plain known for its agricultural significance.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Baku",
+      "description": "The capital city known for its modern architecture and historical sites.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Gobustan National Park",
+      "description": "Famous for its ancient rock carvings and mud volcanoes.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Absheron National Park",
+      "description": "A protected area with diverse wildlife and scenic landscapes.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Ateshgah Fire Temple",
+      "description": "A historical temple known for its eternal flame.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Yanardag",
+      "description": "A natural gas fire that blazes continuously on a hillside.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Nabran",
+      "description": "A popular seaside resort with beautiful beaches and recreational facilities.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Khizi",
+      "description": "Known for its unique red mountains and picturesque landscapes.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Shamakhi",
+      "description": "A historical city with ancient mosques and observatories.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Ganja",
+      "description": "The second-largest city with rich history and cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "East",
+      "placename": "Naftalan",
+      "description": "A unique spa town known for its therapeutic oil baths.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Sheki",
+      "description": "A historical city known for its ancient architecture and silk production.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Kish",
+      "description": "A small village with an ancient Albanian church.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Gakh",
+      "description": "A region known for its natural beauty and historical sites.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Zagatala",
+      "description": "A picturesque town with lush forests and mountain views.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Balakan",
+      "description": "A region with beautiful landscapes and cultural diversity.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Gabala",
+      "description": "A popular tourist destination with a variety of recreational activities.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Ismayilli",
+      "description": "Known for its scenic landscapes and traditional crafts.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Lahij",
+      "description": "A mountain village famous for its copper craftsmanship.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Oguz",
+      "description": "A region with beautiful nature and historical monuments.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    },
+    {
+      "region": "West",
+      "placename": "Mingachevir",
+      "description": "A city known for its large reservoir and hydroelectric power station.",
+      "main_island": "Island",
+      "country_name": "Azerbaijan"
+    }
+  ],
+  "Bahrain": [
+    {
+      "region": "North",
+      "placename": "Bahrain Fort",
+      "description": "A UNESCO World Heritage site with historical significance.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Seef Mall",
+      "description": "A popular shopping destination with a variety of stores and restaurants.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Qal'at al-Bahrain",
+      "description": "An ancient archaeological site with ruins dating back to the Dilmun civilization.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Al Fateh Grand Mosque",
+      "description": "One of the largest mosques in the world, open to visitors.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Bahrain National Museum",
+      "description": "Offers insights into Bahrain's rich history and culture.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Bab Al Bahrain",
+      "description": "A historical building and gateway to the Manama Souq.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "City Centre Bahrain",
+      "description": "A large shopping mall with entertainment options.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Wahooo! Waterpark",
+      "description": "An indoor-outdoor waterpark for family fun.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Reef Island",
+      "description": "A luxurious residential and leisure destination.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Bahrain Financial Harbour",
+      "description": "A modern business district with impressive architecture.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Al Areen Wildlife Park",
+      "description": "A nature reserve home to various species of flora and fauna.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Bahrain International Circuit",
+      "description": "The venue for the Bahrain Grand Prix and other motorsport events.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Tree of Life",
+      "description": "A solitary tree in the desert, famous for its resilience.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Riffa Fort",
+      "description": "A historical fort offering panoramic views of the surrounding area.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Royal Golf Club",
+      "description": "A premier golf course with excellent facilities.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Lost Paradise of Dilmun Water Park",
+      "description": "A large water park with various attractions.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Al Dar Islands",
+      "description": "A popular beach destination for relaxation and water activities.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Gravity Indoor Skydiving",
+      "description": "Experience the thrill of skydiving in a safe indoor environment.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Al Jazair Beach",
+      "description": "A public beach with facilities for picnics and water sports.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Sakhir Desert",
+      "description": "Ideal for desert safaris and off-road adventures.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Amwaj Islands",
+      "description": "A group of man-made islands with beaches, restaurants, and hotels.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Dragon City Bahrain",
+      "description": "A large shopping complex with a focus on Chinese products.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Arad Fort",
+      "description": "A 15th-century fort with historical significance.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Muharraq Souq",
+      "description": "A traditional market offering a variety of goods.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Shaikh Isa Bin Ali House",
+      "description": "A historical house showcasing traditional Bahraini architecture.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Bahrain Pearling Trail",
+      "description": "A UNESCO World Heritage site tracing the history of the pearling industry.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Prince Khalifa Bin Salman Park",
+      "description": "A public park with recreational facilities.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Al Muharraq Stadium",
+      "description": "A venue for various sports events.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Hidd Park",
+      "description": "A family-friendly park with playgrounds and picnic areas.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Diyar Al Muharraq",
+      "description": "A modern residential and commercial development.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Jasra Handicrafts Centre",
+      "description": "A place to see traditional Bahraini crafts being made.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Barbar Temple",
+      "description": "An ancient archaeological site with ruins of a temple.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Diraz Temple",
+      "description": "Another significant archaeological site with historical ruins.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Budaiya Beach",
+      "description": "A serene beach ideal for relaxation.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Royal Camel Farm",
+      "description": "A place to see and learn about camels.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Saar Archaeological Site",
+      "description": "An ancient settlement with significant historical findings.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Jasra House",
+      "description": "A traditional Bahraini house open to visitors.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Budaiya Botanical Garden",
+      "description": "A beautiful garden with a variety of plants.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Nakheel Beach",
+      "description": "A quiet beach perfect for a peaceful day out.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Jasra Beach",
+      "description": "A small beach with clear waters and a relaxing atmosphere.",
+      "main_island": "Mainland",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Bahrain Fort",
+      "description": "A UNESCO World Heritage site with historical significance.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Seef Mall",
+      "description": "A popular shopping destination with a variety of stores and restaurants.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Qal'at al-Bahrain",
+      "description": "An ancient archaeological site with ruins dating back to the Dilmun civilization.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Al Fateh Grand Mosque",
+      "description": "One of the largest mosques in the world, open to visitors.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Bahrain National Museum",
+      "description": "Offers insights into Bahrain's rich history and culture.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Bab Al Bahrain",
+      "description": "A historical building and gateway to the Manama Souq.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "City Centre Bahrain",
+      "description": "A large shopping mall with entertainment options.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Wahooo! Waterpark",
+      "description": "An indoor-outdoor waterpark for family fun.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Reef Island",
+      "description": "A luxurious residential and leisure destination.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "North",
+      "placename": "Bahrain Financial Harbour",
+      "description": "A modern business district with impressive architecture.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Al Areen Wildlife Park",
+      "description": "A nature reserve home to various species of flora and fauna.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Bahrain International Circuit",
+      "description": "The venue for the Bahrain Grand Prix and other motorsport events.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Tree of Life",
+      "description": "A solitary tree in the desert, famous for its resilience.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Riffa Fort",
+      "description": "A historical fort offering panoramic views of the surrounding area.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Royal Golf Club",
+      "description": "A premier golf course with excellent facilities.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Lost Paradise of Dilmun Water Park",
+      "description": "A large water park with various attractions.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Al Dar Islands",
+      "description": "A popular beach destination for relaxation and water activities.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Gravity Indoor Skydiving",
+      "description": "Experience the thrill of skydiving in a safe indoor environment.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Al Jazair Beach",
+      "description": "A public beach with facilities for picnics and water sports.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "South",
+      "placename": "Sakhir Desert",
+      "description": "Ideal for desert safaris and off-road adventures.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Amwaj Islands",
+      "description": "A group of man-made islands with beaches, restaurants, and hotels.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Dragon City Bahrain",
+      "description": "A large shopping complex with a focus on Chinese products.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Arad Fort",
+      "description": "A 15th-century fort with historical significance.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Muharraq Souq",
+      "description": "A traditional market offering a variety of goods.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Shaikh Isa Bin Ali House",
+      "description": "A historical house showcasing traditional Bahraini architecture.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Bahrain Pearling Trail",
+      "description": "A UNESCO World Heritage site tracing the history of the pearling industry.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Prince Khalifa Bin Salman Park",
+      "description": "A public park with recreational facilities.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Al Muharraq Stadium",
+      "description": "A venue for various sports events.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Hidd Park",
+      "description": "A family-friendly park with playgrounds and picnic areas.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "East",
+      "placename": "Diyar Al Muharraq",
+      "description": "A modern residential and commercial development.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Jasra Handicrafts Centre",
+      "description": "A place to see traditional Bahraini crafts being made.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Barbar Temple",
+      "description": "An ancient archaeological site with ruins of a temple.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Diraz Temple",
+      "description": "Another significant archaeological site with historical ruins.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Budaiya Beach",
+      "description": "A serene beach ideal for relaxation.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Royal Camel Farm",
+      "description": "A place to see and learn about camels.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Saar Archaeological Site",
+      "description": "An ancient settlement with significant historical findings.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Jasra House",
+      "description": "A traditional Bahraini house open to visitors.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Budaiya Botanical Garden",
+      "description": "A beautiful garden with a variety of plants.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Nakheel Beach",
+      "description": "A quiet beach perfect for a peaceful day out.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    },
+    {
+      "region": "West",
+      "placename": "Al Jasra Beach",
+      "description": "A small beach with clear waters and a relaxing atmosphere.",
+      "main_island": "Island",
+      "country_name": "Bahrain"
+    }
+  ],
+  "Bangladesh": [
+    {
+      "region": "North",
+      "placename": "Srimangal",
+      "description": "Known as the tea capital of Bangladesh, Srimangal is famous for its lush green tea gardens and serene landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Jaflong",
+      "description": "A picturesque hill station located on the border with India, known for its stone collection activities and scenic beauty.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Lalakhal",
+      "description": "A river with crystal clear blue water, surrounded by hills and tea gardens, perfect for boat rides.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Madhabkunda Waterfall",
+      "description": "The largest waterfall in Bangladesh, located in the Moulvibazar district, surrounded by lush greenery.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Ratargul Swamp Forest",
+      "description": "A freshwater swamp forest located in Sylhet, ideal for boat tours and bird watching.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Lawachara National Park",
+      "description": "A major national park and nature reserve in the Sylhet region, home to diverse wildlife and hiking trails.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Hakaluki Haor",
+      "description": "One of the largest marsh wetlands in Bangladesh, rich in biodiversity and a haven for bird watchers.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Tamabil",
+      "description": "A border area with stunning views of the hills and rivers, popular for its natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Khadimnagar National Park",
+      "description": "A protected area with dense forests, ideal for trekking and nature walks.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Baikka Beel",
+      "description": "A wetland sanctuary in the Srimangal area, known for its rich birdlife and tranquil environment.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Kuakata",
+      "description": "Known as the 'Daughter of the Sea', Kuakata offers a panoramic view of both sunrise and sunset over the Bay of Bengal.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Sundarbans",
+      "description": "The largest mangrove forest in the world, home to the Royal Bengal Tiger and a UNESCO World Heritage Site.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Barisal",
+      "description": "Known for its rivers and floating markets, Barisal offers a unique glimpse into the riverine lifestyle of Bangladesh.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Patuakhali",
+      "description": "A coastal district with beautiful beaches and serene river views, perfect for a peaceful retreat.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Bagerhat",
+      "description": "A historic city with numerous mosques and ancient architecture, including the famous Sixty Dome Mosque.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Kuakata Eco Park",
+      "description": "A park near Kuakata beach, offering a blend of natural beauty and wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Fatrar Char",
+      "description": "An island near Kuakata, known for its pristine beaches and tranquil environment.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Nijhum Dwip",
+      "description": "An island in the Bay of Bengal, known for its rich biodiversity and serene landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Bhola",
+      "description": "The largest island district in Bangladesh, offering beautiful river views and a peaceful environment.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Payra Port",
+      "description": "A newly developed port area with scenic views of the Bay of Bengal and surrounding areas.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Chittagong Hill Tracts",
+      "description": "A region of rolling hills, tribal culture, and scenic beauty, perfect for trekking and cultural exploration.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Cox's Bazar",
+      "description": "Home to the longest natural sea beach in the world, a popular destination for beach lovers.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Bandarban",
+      "description": "A hill district known for its stunning landscapes, waterfalls, and indigenous culture.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Rangamati",
+      "description": "A picturesque hill district with beautiful lakes, hills, and tribal culture.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Khagrachari",
+      "description": "Known for its lush green hills, waterfalls, and indigenous communities.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Sajek Valley",
+      "description": "A popular tourist destination in the Chittagong Hill Tracts, known for its breathtaking views and serene environment.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Kaptai Lake",
+      "description": "The largest man-made lake in Bangladesh, offering boating and scenic views.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Maheshkhali Island",
+      "description": "An island near Cox's Bazar, known for its natural beauty and ancient temples.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Sitakunda",
+      "description": "A coastal area with beautiful beaches, hills, and a famous eco-park.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Patenga Beach",
+      "description": "A popular beach near Chittagong city, known for its scenic beauty and vibrant atmosphere.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Rajshahi",
+      "description": "Known as the 'Silk City' and 'Education City', Rajshahi is famous for its silk products and mangoes.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Paharpur",
+      "description": "Home to the Somapura Mahavihara, a UNESCO World Heritage Site and one of the largest Buddhist monasteries in the Indian subcontinent.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Bogra",
+      "description": "Known for the ancient archaeological site of Mahasthangarh, one of the earliest urban archaeological sites in Bangladesh.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Natore",
+      "description": "Famous for the Uttara Ganabhaban, a historic palace and the official residence of the President of Bangladesh in the northern region.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Kushtia",
+      "description": "Known for the shrine of Lalon Shah, a famous mystic poet, and the Kuthibari, a historic house of Rabindranath Tagore.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Puthia",
+      "description": "A small town with a rich collection of historic Hindu temples and palaces.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Chapai Nawabganj",
+      "description": "Famous for its mangoes and the historic Choto Sona Mosque.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Dinajpur",
+      "description": "Known for the Kantajew Temple, a stunning example of terracotta architecture.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Gaibandha",
+      "description": "Home to the historic site of Bhitargarh, an ancient fort city.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Rangpur",
+      "description": "Known for the Tajhat Palace, a historic palace with a museum showcasing the region's history.",
+      "main_island": "Mainland",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Srimangal",
+      "description": "Known as the tea capital of Bangladesh, Srimangal is famous for its lush green tea gardens and serene landscapes.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Jaflong",
+      "description": "A picturesque hill station located on the border with India, known for its stone collection activities and scenic beauty.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Lalakhal",
+      "description": "A river with crystal clear blue water, surrounded by hills and tea gardens, perfect for boat rides.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Madhabkunda Waterfall",
+      "description": "The largest waterfall in Bangladesh, located in the Moulvibazar district, surrounded by lush greenery.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Ratargul Swamp Forest",
+      "description": "A freshwater swamp forest located in Sylhet, ideal for boat tours and bird watching.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Lawachara National Park",
+      "description": "A major national park and nature reserve in the Sylhet region, home to diverse wildlife and hiking trails.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Hakaluki Haor",
+      "description": "One of the largest marsh wetlands in Bangladesh, rich in biodiversity and a haven for bird watchers.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Tamabil",
+      "description": "A border area with stunning views of the hills and rivers, popular for its natural beauty.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Khadimnagar National Park",
+      "description": "A protected area with dense forests, ideal for trekking and nature walks.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "North",
+      "placename": "Baikka Beel",
+      "description": "A wetland sanctuary in the Srimangal area, known for its rich birdlife and tranquil environment.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Kuakata",
+      "description": "Known as the 'Daughter of the Sea', Kuakata offers a panoramic view of both sunrise and sunset over the Bay of Bengal.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Sundarbans",
+      "description": "The largest mangrove forest in the world, home to the Royal Bengal Tiger and a UNESCO World Heritage Site.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Barisal",
+      "description": "Known for its rivers and floating markets, Barisal offers a unique glimpse into the riverine lifestyle of Bangladesh.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Patuakhali",
+      "description": "A coastal district with beautiful beaches and serene river views, perfect for a peaceful retreat.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Bagerhat",
+      "description": "A historic city with numerous mosques and ancient architecture, including the famous Sixty Dome Mosque.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Kuakata Eco Park",
+      "description": "A park near Kuakata beach, offering a blend of natural beauty and wildlife.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Fatrar Char",
+      "description": "An island near Kuakata, known for its pristine beaches and tranquil environment.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Nijhum Dwip",
+      "description": "An island in the Bay of Bengal, known for its rich biodiversity and serene landscapes.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Bhola",
+      "description": "The largest island district in Bangladesh, offering beautiful river views and a peaceful environment.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "South",
+      "placename": "Payra Port",
+      "description": "A newly developed port area with scenic views of the Bay of Bengal and surrounding areas.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Chittagong Hill Tracts",
+      "description": "A region of rolling hills, tribal culture, and scenic beauty, perfect for trekking and cultural exploration.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Cox's Bazar",
+      "description": "Home to the longest natural sea beach in the world, a popular destination for beach lovers.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Bandarban",
+      "description": "A hill district known for its stunning landscapes, waterfalls, and indigenous culture.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Rangamati",
+      "description": "A picturesque hill district with beautiful lakes, hills, and tribal culture.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Khagrachari",
+      "description": "Known for its lush green hills, waterfalls, and indigenous communities.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Sajek Valley",
+      "description": "A popular tourist destination in the Chittagong Hill Tracts, known for its breathtaking views and serene environment.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Kaptai Lake",
+      "description": "The largest man-made lake in Bangladesh, offering boating and scenic views.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Maheshkhali Island",
+      "description": "An island near Cox's Bazar, known for its natural beauty and ancient temples.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Sitakunda",
+      "description": "A coastal area with beautiful beaches, hills, and a famous eco-park.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "East",
+      "placename": "Patenga Beach",
+      "description": "A popular beach near Chittagong city, known for its scenic beauty and vibrant atmosphere.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Rajshahi",
+      "description": "Known as the 'Silk City' and 'Education City', Rajshahi is famous for its silk products and mangoes.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Paharpur",
+      "description": "Home to the Somapura Mahavihara, a UNESCO World Heritage Site and one of the largest Buddhist monasteries in the Indian subcontinent.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Bogra",
+      "description": "Known for the ancient archaeological site of Mahasthangarh, one of the earliest urban archaeological sites in Bangladesh.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Natore",
+      "description": "Famous for the Uttara Ganabhaban, a historic palace and the official residence of the President of Bangladesh in the northern region.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Kushtia",
+      "description": "Known for the shrine of Lalon Shah, a famous mystic poet, and the Kuthibari, a historic house of Rabindranath Tagore.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Puthia",
+      "description": "A small town with a rich collection of historic Hindu temples and palaces.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Chapai Nawabganj",
+      "description": "Famous for its mangoes and the historic Choto Sona Mosque.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Dinajpur",
+      "description": "Known for the Kantajew Temple, a stunning example of terracotta architecture.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Gaibandha",
+      "description": "Home to the historic site of Bhitargarh, an ancient fort city.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    },
+    {
+      "region": "West",
+      "placename": "Rangpur",
+      "description": "Known for the Tajhat Palace, a historic palace with a museum showcasing the region's history.",
+      "main_island": "Island",
+      "country_name": "Bangladesh"
+    }
+  ],
+  "Bhutan": [
+    {
+      "region": "North",
+      "placename": "Laya",
+      "description": "A remote village known for its unique culture and stunning landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Gasa Dzong",
+      "description": "A historic fortress offering panoramic views of the surrounding mountains.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Jigme Dorji National Park",
+      "description": "Bhutan's second-largest national park, home to diverse wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Lunana",
+      "description": "A high-altitude region famous for its challenging trekking routes.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Lingshi",
+      "description": "A picturesque village with traditional Bhutanese architecture.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Chele La Pass",
+      "description": "The highest motorable pass in Bhutan, offering breathtaking views.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Paro Taktsang (Tiger's Nest)",
+      "description": "A sacred monastery perched on a cliffside.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Haa Valley",
+      "description": "A serene valley with beautiful landscapes and traditional villages.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Drukgyel Dzong",
+      "description": "A historic fortress with stunning views of Mount Jomolhari.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Jomolhari Base Camp",
+      "description": "A popular trekking destination with spectacular mountain views.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Phuentsholing",
+      "description": "A bustling border town with a mix of Bhutanese and Indian cultures.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Gelephu",
+      "description": "A gateway to the southern plains and a hub for trade and commerce.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Sarpang",
+      "description": "A district known for its diverse ethnic communities and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Samdrup Jongkhar",
+      "description": "A vibrant town with a rich cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Royal Manas National Park",
+      "description": "Bhutan's oldest national park, home to diverse flora and fauna.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Zhemgang",
+      "description": "A district known for its pristine forests and wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Tingtibi",
+      "description": "A small town surrounded by lush greenery and scenic landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Panbang",
+      "description": "A picturesque village located along the banks of the Mangde Chhu river.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Nganglam",
+      "description": "A town known for its beautiful landscapes and traditional architecture.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Jomotsangkha Wildlife Sanctuary",
+      "description": "A protected area with rich biodiversity.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Trashigang",
+      "description": "A historic town with a vibrant local market and traditional architecture.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Mongar",
+      "description": "A district known for its scenic landscapes and cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Lhuentse",
+      "description": "A remote district with stunning natural beauty and ancient monasteries.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Tashiyangtse",
+      "description": "A picturesque town with a rich cultural heritage.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Bumdeling Wildlife Sanctuary",
+      "description": "A protected area known for its diverse wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Khaling",
+      "description": "A village famous for its traditional weaving and textiles.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Radhi",
+      "description": "A scenic village known for its rice terraces and traditional lifestyle.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Merak",
+      "description": "A remote village with unique culture and stunning landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Sakteng",
+      "description": "A high-altitude village known for its unique Brokpa culture.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Yonphula",
+      "description": "A small town with beautiful landscapes and a serene environment.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Thimphu",
+      "description": "The capital city of Bhutan, known for its cultural landmarks and vibrant markets.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Paro",
+      "description": "A historic town with beautiful landscapes and the famous Tiger's Nest monastery.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Punakha",
+      "description": "A picturesque valley with the stunning Punakha Dzong.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Haa",
+      "description": "A serene valley with traditional villages and beautiful landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Wangdue Phodrang",
+      "description": "A district known for its scenic beauty and historic dzong.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Phobjikha Valley",
+      "description": "A glacial valley famous for its black-necked cranes.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Dochula Pass",
+      "description": "A mountain pass offering panoramic views of the Himalayas.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Chimi Lhakhang",
+      "description": "A fertility temple known for its unique traditions.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Gangtey Monastery",
+      "description": "A beautiful monastery overlooking the Phobjikha Valley.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Simtokha Dzong",
+      "description": "The oldest dzong in Bhutan, known for its historic significance.",
+      "main_island": "Mainland",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Laya",
+      "description": "A remote village known for its unique culture and stunning landscapes.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Gasa Dzong",
+      "description": "A historic fortress offering panoramic views of the surrounding mountains.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Jigme Dorji National Park",
+      "description": "Bhutan's second-largest national park, home to diverse wildlife.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Lunana",
+      "description": "A high-altitude region famous for its challenging trekking routes.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Lingshi",
+      "description": "A picturesque village with traditional Bhutanese architecture.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Chele La Pass",
+      "description": "The highest motorable pass in Bhutan, offering breathtaking views.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Paro Taktsang (Tiger's Nest)",
+      "description": "A sacred monastery perched on a cliffside.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Haa Valley",
+      "description": "A serene valley with beautiful landscapes and traditional villages.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Drukgyel Dzong",
+      "description": "A historic fortress with stunning views of Mount Jomolhari.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "North",
+      "placename": "Jomolhari Base Camp",
+      "description": "A popular trekking destination with spectacular mountain views.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Phuentsholing",
+      "description": "A bustling border town with a mix of Bhutanese and Indian cultures.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Gelephu",
+      "description": "A gateway to the southern plains and a hub for trade and commerce.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Sarpang",
+      "description": "A district known for its diverse ethnic communities and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Samdrup Jongkhar",
+      "description": "A vibrant town with a rich cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Royal Manas National Park",
+      "description": "Bhutan's oldest national park, home to diverse flora and fauna.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Zhemgang",
+      "description": "A district known for its pristine forests and wildlife.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Tingtibi",
+      "description": "A small town surrounded by lush greenery and scenic landscapes.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Panbang",
+      "description": "A picturesque village located along the banks of the Mangde Chhu river.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Nganglam",
+      "description": "A town known for its beautiful landscapes and traditional architecture.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "South",
+      "placename": "Jomotsangkha Wildlife Sanctuary",
+      "description": "A protected area with rich biodiversity.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Trashigang",
+      "description": "A historic town with a vibrant local market and traditional architecture.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Mongar",
+      "description": "A district known for its scenic landscapes and cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Lhuentse",
+      "description": "A remote district with stunning natural beauty and ancient monasteries.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Tashiyangtse",
+      "description": "A picturesque town with a rich cultural heritage.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Bumdeling Wildlife Sanctuary",
+      "description": "A protected area known for its diverse wildlife.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Khaling",
+      "description": "A village famous for its traditional weaving and textiles.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Radhi",
+      "description": "A scenic village known for its rice terraces and traditional lifestyle.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Merak",
+      "description": "A remote village with unique culture and stunning landscapes.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Sakteng",
+      "description": "A high-altitude village known for its unique Brokpa culture.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "East",
+      "placename": "Yonphula",
+      "description": "A small town with beautiful landscapes and a serene environment.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Thimphu",
+      "description": "The capital city of Bhutan, known for its cultural landmarks and vibrant markets.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Paro",
+      "description": "A historic town with beautiful landscapes and the famous Tiger's Nest monastery.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Punakha",
+      "description": "A picturesque valley with the stunning Punakha Dzong.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Haa",
+      "description": "A serene valley with traditional villages and beautiful landscapes.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Wangdue Phodrang",
+      "description": "A district known for its scenic beauty and historic dzong.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Phobjikha Valley",
+      "description": "A glacial valley famous for its black-necked cranes.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Dochula Pass",
+      "description": "A mountain pass offering panoramic views of the Himalayas.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Chimi Lhakhang",
+      "description": "A fertility temple known for its unique traditions.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Gangtey Monastery",
+      "description": "A beautiful monastery overlooking the Phobjikha Valley.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    },
+    {
+      "region": "West",
+      "placename": "Simtokha Dzong",
+      "description": "The oldest dzong in Bhutan, known for its historic significance.",
+      "main_island": "Island",
+      "country_name": "Bhutan"
+    }
+  ],
+  "Brunei": [
+    {
+      "region": "North",
+      "placename": "Kampong Ayer",
+      "description": "A historic water village with traditional stilt houses.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Istana Nurul Iman",
+      "description": "The official residence of the Sultan of Brunei.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Jame' Asr Hassanil Bolkiah Mosque",
+      "description": "A grand mosque with stunning architecture.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Royal Regalia Museum",
+      "description": "A museum showcasing the royal treasures of Brunei.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Tasek Lama Recreational Park",
+      "description": "A popular park with hiking trails and waterfalls.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Brunei Museum",
+      "description": "The national museum with exhibits on Brunei's history and culture.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Malay Technology Museum",
+      "description": "A museum displaying traditional Malay technologies.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Omar Ali Saifuddien Mosque",
+      "description": "A beautiful mosque surrounded by a lagoon.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Tamu Kianggeh",
+      "description": "A bustling local market offering fresh produce and local goods.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "The Empire Hotel & Country Club",
+      "description": "A luxurious resort with a golf course and beach.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Labi Forest Reserve",
+      "description": "A lush forest reserve with diverse flora and fauna.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Wasai Kadir",
+      "description": "A scenic waterfall located in the Labi area.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Luagan Lalak Recreation Park",
+      "description": "A serene park with a unique alluvial swamp.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Tasek Merimbun",
+      "description": "Brunei's largest natural lake, ideal for bird watching.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Bukit Teraja",
+      "description": "A challenging hiking trail with rewarding views.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Sungai Liang Forest Recreation Park",
+      "description": "A park with picnic areas and nature trails.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Andulau Forest Reserve",
+      "description": "A protected area with rich biodiversity.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Belait District Museum",
+      "description": "A museum showcasing the history of the Belait district.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Seria Oilfield",
+      "description": "An area with historical significance in Brunei's oil industry.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Sungai Mau Recreational Park",
+      "description": "A park with a river and picnic spots.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Ulu Temburong National Park",
+      "description": "A pristine rainforest with canopy walkways.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Bukit Patoi Forest Recreation Park",
+      "description": "A park with hiking trails and scenic views.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Batang Duri",
+      "description": "A gateway to the Ulu Temburong National Park.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Temburong River",
+      "description": "A river offering exciting river cruises and kayaking.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Peradayan Forest Reserve",
+      "description": "A forest reserve with diverse wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Kuala Belalong Field Studies Centre",
+      "description": "A research center in the rainforest.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Bukit Peradayan",
+      "description": "A hill with trails and panoramic views.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Labu Forest Reserve",
+      "description": "A protected area with rich flora and fauna.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Selirong Island",
+      "description": "A mangrove island with boardwalks and wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Temburong District Museum",
+      "description": "A museum showcasing the culture of the Temburong district.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Jerudong Park Playground",
+      "description": "A large amusement park with various attractions.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Seri Kenangan",
+      "description": "A picturesque beach ideal for relaxation.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Bukit Shahbandar",
+      "description": "A popular hiking spot with multiple trails.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Muara Beach",
+      "description": "A sandy beach perfect for picnics and swimming.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Meragang Beach",
+      "description": "A quiet beach known for its beautiful sunsets.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Tungku",
+      "description": "A beach popular for its scenic views and water activities.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Bukit Tempayan Pisang",
+      "description": "A hill with trails and panoramic views.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Jerudong",
+      "description": "A beach near the Jerudong Park Playground.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Bukit Ambok",
+      "description": "A hill with hiking trails and scenic views.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Berakas",
+      "description": "A beach with picnic areas and recreational facilities.",
+      "main_island": "Mainland",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Kampong Ayer",
+      "description": "A historic water village with traditional stilt houses.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Istana Nurul Iman",
+      "description": "The official residence of the Sultan of Brunei.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Jame' Asr Hassanil Bolkiah Mosque",
+      "description": "A grand mosque with stunning architecture.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Royal Regalia Museum",
+      "description": "A museum showcasing the royal treasures of Brunei.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Tasek Lama Recreational Park",
+      "description": "A popular park with hiking trails and waterfalls.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Brunei Museum",
+      "description": "The national museum with exhibits on Brunei's history and culture.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Malay Technology Museum",
+      "description": "A museum displaying traditional Malay technologies.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Omar Ali Saifuddien Mosque",
+      "description": "A beautiful mosque surrounded by a lagoon.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "Tamu Kianggeh",
+      "description": "A bustling local market offering fresh produce and local goods.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "North",
+      "placename": "The Empire Hotel & Country Club",
+      "description": "A luxurious resort with a golf course and beach.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Labi Forest Reserve",
+      "description": "A lush forest reserve with diverse flora and fauna.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Wasai Kadir",
+      "description": "A scenic waterfall located in the Labi area.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Luagan Lalak Recreation Park",
+      "description": "A serene park with a unique alluvial swamp.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Tasek Merimbun",
+      "description": "Brunei's largest natural lake, ideal for bird watching.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Bukit Teraja",
+      "description": "A challenging hiking trail with rewarding views.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Sungai Liang Forest Recreation Park",
+      "description": "A park with picnic areas and nature trails.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Andulau Forest Reserve",
+      "description": "A protected area with rich biodiversity.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Belait District Museum",
+      "description": "A museum showcasing the history of the Belait district.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Seria Oilfield",
+      "description": "An area with historical significance in Brunei's oil industry.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "South",
+      "placename": "Sungai Mau Recreational Park",
+      "description": "A park with a river and picnic spots.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Ulu Temburong National Park",
+      "description": "A pristine rainforest with canopy walkways.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Bukit Patoi Forest Recreation Park",
+      "description": "A park with hiking trails and scenic views.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Batang Duri",
+      "description": "A gateway to the Ulu Temburong National Park.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Temburong River",
+      "description": "A river offering exciting river cruises and kayaking.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Peradayan Forest Reserve",
+      "description": "A forest reserve with diverse wildlife.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Kuala Belalong Field Studies Centre",
+      "description": "A research center in the rainforest.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Bukit Peradayan",
+      "description": "A hill with trails and panoramic views.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Labu Forest Reserve",
+      "description": "A protected area with rich flora and fauna.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Selirong Island",
+      "description": "A mangrove island with boardwalks and wildlife.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "East",
+      "placename": "Temburong District Museum",
+      "description": "A museum showcasing the culture of the Temburong district.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Jerudong Park Playground",
+      "description": "A large amusement park with various attractions.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Seri Kenangan",
+      "description": "A picturesque beach ideal for relaxation.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Bukit Shahbandar",
+      "description": "A popular hiking spot with multiple trails.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Muara Beach",
+      "description": "A sandy beach perfect for picnics and swimming.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Meragang Beach",
+      "description": "A quiet beach known for its beautiful sunsets.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Tungku",
+      "description": "A beach popular for its scenic views and water activities.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Bukit Tempayan Pisang",
+      "description": "A hill with trails and panoramic views.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Jerudong",
+      "description": "A beach near the Jerudong Park Playground.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Bukit Ambok",
+      "description": "A hill with hiking trails and scenic views.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    },
+    {
+      "region": "West",
+      "placename": "Pantai Berakas",
+      "description": "A beach with picnic areas and recreational facilities.",
+      "main_island": "Island",
+      "country_name": "Brunei"
+    }
+  ],
+  "Cambodia": [
+    {
+      "region": "North",
+      "placename": "Angkor Wat",
+      "description": "The largest religious monument in the world, a UNESCO World Heritage site.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Siem Reap",
+      "description": "A vibrant city known for its proximity to Angkor Wat and lively night markets.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Preah Vihear Temple",
+      "description": "An ancient Hindu temple located on a cliff in the D\u00e2ngr\u00eak Mountains.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Banteay Srei",
+      "description": "A 10th-century Cambodian temple dedicated to the Hindu god Shiva.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Koh Ker",
+      "description": "A remote archaeological site with impressive temple ruins.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Phnom Kulen National Park",
+      "description": "A national park with waterfalls, ancient temples, and a reclining Buddha.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Beng Mealea",
+      "description": "A sprawling jungle temple complex, often compared to Angkor Wat.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Battambang",
+      "description": "A city known for its colonial architecture, art scene, and bamboo train.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Anlong Veng",
+      "description": "A historical town known for its association with the Khmer Rouge.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Kulen Promtep Wildlife Sanctuary",
+      "description": "A protected area with diverse wildlife and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Phnom Penh",
+      "description": "The capital city, known for its Royal Palace, museums, and vibrant riverside.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Sihanoukville",
+      "description": "A coastal city with beautiful beaches and islands.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Kampot",
+      "description": "A charming riverside town known for its pepper plantations and colonial architecture.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Kep",
+      "description": "A seaside town famous for its crab market and nearby islands.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Bokor National Park",
+      "description": "A national park with cool climate, waterfalls, and an abandoned French hill station.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Ream National Park",
+      "description": "A coastal park with mangroves, beaches, and diverse wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Ta Tai Waterfall",
+      "description": "A scenic waterfall located in the Cardamom Mountains.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Koh Kong",
+      "description": "A province known for its ecotourism, waterfalls, and mangrove forests.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Kirirom National Park",
+      "description": "A national park with pine forests, waterfalls, and hiking trails.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Preah Sihanouk Ream National Park",
+      "description": "A coastal park with beaches, coral reefs, and wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Mondulkiri",
+      "description": "A province known for its rolling hills, waterfalls, and indigenous Bunong culture.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Sen Monorom",
+      "description": "The capital of Mondulkiri, known for its elephant sanctuaries and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Bou Sra Waterfall",
+      "description": "One of Cambodia's most famous and beautiful waterfalls.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Kratie",
+      "description": "A town on the Mekong River, known for its freshwater Irrawaddy dolphins.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Kampi Dolphin Pool",
+      "description": "A popular spot to see the endangered Irrawaddy dolphins.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Virachey National Park",
+      "description": "A remote national park with diverse wildlife and trekking opportunities.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Banlung",
+      "description": "The capital of Ratanakiri, known for its crater lakes and ethnic diversity.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Yeak Laom Lake",
+      "description": "A volcanic crater lake surrounded by lush forest.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Lumphat Wildlife Sanctuary",
+      "description": "A protected area with diverse flora and fauna.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Ka Chanh Waterfall",
+      "description": "A picturesque waterfall near Banlung.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Battambang",
+      "description": "A city known for its colonial architecture, art scene, and bamboo train.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Pailin",
+      "description": "A province known for its gem mining and scenic landscapes.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Cardamom Mountains",
+      "description": "A mountain range with rich biodiversity and trekking opportunities.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Pursat",
+      "description": "A province known for its marble mountains and floating villages.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Kampong Chhnang",
+      "description": "A province known for its pottery and floating villages.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Prasat Preah Vihear",
+      "description": "An ancient Hindu temple located on a cliff in the D\u00e2ngr\u00eak Mountains.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Koh Kong Conservation Corridor",
+      "description": "A region with diverse ecosystems and wildlife.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Osoam Cardamom Community Center",
+      "description": "A community-based ecotourism site in the Cardamom Mountains.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Phnom Samkos Wildlife Sanctuary",
+      "description": "A protected area with diverse wildlife and natural beauty.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "West",
+      "placename": "Thma Bang",
+      "description": "A remote district in Koh Kong province, known for its natural beauty and ecotourism.",
+      "main_island": "Mainland",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Angkor Wat",
+      "description": "The largest religious monument in the world, a UNESCO World Heritage site.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Siem Reap",
+      "description": "A vibrant city known for its proximity to Angkor Wat and lively night markets.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Preah Vihear Temple",
+      "description": "An ancient Hindu temple located on a cliff in the D\u00e2ngr\u00eak Mountains.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Banteay Srei",
+      "description": "A 10th-century Cambodian temple dedicated to the Hindu god Shiva.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Koh Ker",
+      "description": "A remote archaeological site with impressive temple ruins.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Phnom Kulen National Park",
+      "description": "A national park with waterfalls, ancient temples, and a reclining Buddha.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Beng Mealea",
+      "description": "A sprawling jungle temple complex, often compared to Angkor Wat.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Battambang",
+      "description": "A city known for its colonial architecture, art scene, and bamboo train.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Anlong Veng",
+      "description": "A historical town known for its association with the Khmer Rouge.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "North",
+      "placename": "Kulen Promtep Wildlife Sanctuary",
+      "description": "A protected area with diverse wildlife and natural beauty.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Phnom Penh",
+      "description": "The capital city, known for its Royal Palace, museums, and vibrant riverside.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Sihanoukville",
+      "description": "A coastal city with beautiful beaches and islands.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Kampot",
+      "description": "A charming riverside town known for its pepper plantations and colonial architecture.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Kep",
+      "description": "A seaside town famous for its crab market and nearby islands.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Bokor National Park",
+      "description": "A national park with cool climate, waterfalls, and an abandoned French hill station.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Ream National Park",
+      "description": "A coastal park with mangroves, beaches, and diverse wildlife.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Ta Tai Waterfall",
+      "description": "A scenic waterfall located in the Cardamom Mountains.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Koh Kong",
+      "description": "A province known for its ecotourism, waterfalls, and mangrove forests.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Kirirom National Park",
+      "description": "A national park with pine forests, waterfalls, and hiking trails.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "South",
+      "placename": "Preah Sihanouk Ream National Park",
+      "description": "A coastal park with beaches, coral reefs, and wildlife.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Mondulkiri",
+      "description": "A province known for its rolling hills, waterfalls, and indigenous Bunong culture.",
+      "main_island": "Island",
+      "country_name": "Cambodia"
+    },
+    {
+      "region": "East",
+      "placename": "Sen Monorom",
+      "description": "The capital of Mondulkiri, known for its elephant sanctuaries and natural beauty.",
+      "main_island": "Island"
+   }
+  ]
+}

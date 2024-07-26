@@ -1,13 +1,13 @@
 import React, { Fragment, useState, useEffect } from "react";
-import "./App.css";
-import rawData from './assets/data.json';
+import "../App.css";
+import rawData from '../assets/data.json';
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Dialog, DialogTitle, DialogContent, DialogActions, Button, TextField,
 } from "@mui/material";
 import PersonIcon from '@mui/icons-material/Person';
 import { Link } from "react-router-dom";
 import Swal from 'sweetalert2'
 
-const Dashboard = () => {
+const Country = () => {
   const [country, setCountry] = useState("");
   const [region, setRegion] = useState("");
   const [searchTerm, setSearchTerm] = useState("");
@@ -347,4 +347,4 @@ const buttonStyle = {
   width: "100%",
 };
 
-export default Dashboard;
+export default Country;
