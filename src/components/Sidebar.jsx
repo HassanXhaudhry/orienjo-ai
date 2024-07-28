@@ -4,10 +4,15 @@ import { Box, IconButton, Typography } from "@mui/material";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import PublicIcon from "@mui/icons-material/Public";
 import logo from "../assets/logo.jpg";
-import { Link } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 
 const Sidebarr = () => {
   const [isCollapsed, setIsCollapsed] = useState(false);
+  const navigate = useNavigate();
+
+  const handleLogoClick = () => {
+    navigate('/');
+  };
 
   return (
     <Box
@@ -55,9 +60,15 @@ const Sidebarr = () => {
                 <img
                   src={logo}
                   alt="Logo"
-                  style={{ marginBottom: "0px", width: "60%", height: "40%" }}
+                  style={{ marginBottom: "0px", width: "60%", height: "40%", cursor: "pointer" }}
+                  onClick={handleLogoClick}
                 />
-                <IconButton onClick={() => setIsCollapsed(!isCollapsed)}>
+                <IconButton
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setIsCollapsed(!isCollapsed);
+                  }}
+                >
                   <MenuOutlinedIcon />
                 </IconButton>
               </Box>
