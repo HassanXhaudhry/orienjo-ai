@@ -5,56 +5,64 @@
       "placename": "Mazar-i-Sharif",
       "description": "Known for the stunning Blue Mosque, a major pilgrimage site.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
       "placename": "Balkh",
       "description": "An ancient city with rich history and archaeological sites.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
       "placename": "Samangan",
       "description": "Famous for the Takht-e-Rostam, a Buddhist stupa and monastery.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
       "placename": "Sheberghan",
       "description": "Known for its historical significance and ancient ruins.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
       "placename": "Kunduz",
       "description": "A city with a mix of modern and historical attractions.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
       "placename": "Badakhshan",
       "description": "Home to the beautiful Wakhan Corridor and Pamir Mountains.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
       "placename": "Taloqan",
       "description": "A city with lush greenery and historical sites.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
       "placename": "Baghlan",
       "description": "Known for its scenic landscapes and historical significance.",
       "main_island": "Mainland",
-      "country_name": "Afghanistan"
+      "country_name": "Afghanistan",
+      "image": "/"
     },
     {
       "region": "North",
