@@ -20,6 +20,7 @@ const Country = () => {
     placename: "",
     description: "",
     main_island: "",
+    images: []
   });
 
   useEffect(() => {
@@ -61,10 +62,26 @@ const Country = () => {
     }));
   };
 
-  const handleAddEntry = () => {
-    const { country_name, region, placename, description, main_island } = newEntry;
+  const handleImageUpload = (e) => {
+    const files = Array.from(e.target.files);
+    const newImages = files.map(file => URL.createObjectURL(file));
+    setNewEntry(prevState => ({
+      ...prevState,
+      images: [...prevState.images, ...newImages]
+    }));
+  };
 
-    if (country_name && region && placename && description && main_island) {
+  const handleDeleteImage = (index) => {
+    setNewEntry(prevState => ({
+      ...prevState,
+      images: prevState.images.filter((_, i) => i !== index)
+    }));
+  };
+
+  const handleAddEntry = () => {
+    const { country_name, region, placename, description, main_island, images } = newEntry;
+
+    if (country_name && region && placename && description && main_island && images.length > 0) {
       setDisplayedData(prevData => [...prevData, newEntry]);
       setAllCountryData(prevData => [...prevData, newEntry]);
       setNewEntry({
@@ -73,15 +90,15 @@ const Country = () => {
         placename: "",
         description: "",
         main_island: "",
+        images: []
       });
+      handleClosePopup();
     } else {
-      (Swal.fire({
+      Swal.fire({
         text: 'All fields must be filled out before adding a new place.',
         icon: 'warning',
         confirmButtonText: 'Okay'
-      }));
-      
-      handleClosePopup();
+      });
     }
   };
 
@@ -223,6 +240,7 @@ const Country = () => {
                         <TableCell>Place Name</TableCell>
                         <TableCell>Description</TableCell>
                         <TableCell>Main Island</TableCell>
+                        <TableCell>Images</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -233,6 +251,11 @@ const Country = () => {
                           <TableCell>{location.placename}</TableCell>
                           <TableCell>{location.description}</TableCell>
                           <TableCell>{location.main_island}</TableCell>
+                          <TableCell>
+                            {location.images.map((image, idx) => (
+                              <img key={idx} src={image} alt={`Place ${idx}`} style={{ width: '50px', height: '50px', marginRight: '5px' }} />
+                            ))}
+                          </TableCell>
                         </TableRow>
                       ))}
                     </TableBody>
@@ -294,10 +317,39 @@ const Country = () => {
             value={newEntry.main_island}
             onChange={handleInputChange}
           />
+          <input
+            accept="image/*"
+            style={{ display: 'none' }}
+            id="image-upload"
+            type="file"
+            multiple
+            onChange={handleImageUpload}
+          />
+          <label htmlFor="image-upload">
+            <Button variant="contained" component="span" style={{ marginTop: '10px', marginBottom: '10px' }}>
+              Upload Images
+            </Button>
+          </label>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+            {newEntry.images.map((image, index) => (
+              <div key={index} style={{ position: 'relative', display: 'inline-block' }}>
+                <img src={image} alt={`Upload ${index}`} style={{ width: '100px', height: '100px' }} />
+                <Button
+                  variant="contained"
+                  color="secondary"
+                  size="small"
+                  onClick={() => handleDeleteImage(index)}
+                  style={{ position: 'absolute', top: '5px', right: '5px' }}
+                >
+                  Delete
+                </Button>
+              </div>
+            ))}
+          </div>
         </DialogContent>
-        <DialogActions style={{padding:'20px 20px'}}>
+        <DialogActions style={{ padding: '20px 20px' }}>
           <Button onClick={handleClosePopup} style={buttonStyle}>Cancel</Button>
-          <Button onClick={handleAddEntry} style={buttonStyle} >Add</Button>
+          <Button onClick={handleAddEntry} style={buttonStyle}>Add</Button>
         </DialogActions>
       </Dialog>
     </Fragment>

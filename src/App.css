@@ -5,3 +5,51 @@ body{
     margin: 0 auto;
     padding: 0;
 }
+.image-container {
+    position: relative;
+  }
+  
+  .image-popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    z-index: 1000;
+    max-width: 80vw;
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+  
+  .image-container:hover .image-popup {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-popup::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #D3D3D3;
+    z-index: -1;
+  }
+  
+  .image-popup img {
+    transition: transform 0.3s ease;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .image-popup img:hover {
+    transform: scale(1.05);
+  }
