@@ -20,35 +20,46 @@ const Country = () => {
     placename: "",
     description: "",
     main_island: "",
-    images: []
+    images: [],
   });
 
   useEffect(() => {
-    const flattenedData = Object.entries(rawData).flatMap(([countryName, locations]) =>
-      locations.map(location => ({ ...location, country_name: countryName }))
+    const flattenedData = Object.entries(rawData || {}).flatMap(
+      ([countryName, locations]) =>
+        (locations || []).map((location) => ({
+          ...location,
+          country_name: countryName,
+          images: location.images || [], // Ensure images is always an array
+        }))
     );
     setAllCountryData(flattenedData);
   }, []);
 
   const handleSearch = (e) => {
     e.preventDefault();
-    if (country.trim() === '' && region.trim() === '') {
+    if (country.trim() === "" && region.trim() === "") {
       setDisplayedData([]);
     } else {
       const filteredData = allCountryData.filter(
-        (item) => 
-          item.country_name.toLowerCase().includes(country.toLowerCase()) &&
-          item.region.toLowerCase().includes(region.toLowerCase())
+        (item) =>
+          (item?.country_name || "")
+            .toLowerCase()
+            .includes(country.toLowerCase()) &&
+          (item?.region || "").toLowerCase().includes(region.toLowerCase())
       );
-      setDisplayedData(filteredData);
+      setDisplayedData(filteredData || []);
     }
   };
 
   useEffect(() => {
-    const filteredResults = displayedData.filter((location) =>
-      location.country_name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    setDisplayedData(filteredResults);
+    if (displayedData && displayedData.length > 0) {
+      const filteredResults = displayedData.filter((location) =>
+        (location?.country_name || "")
+          .toLowerCase()
+          .includes(searchTerm.toLowerCase())
+      );
+      setDisplayedData(filteredResults);
+    }
   }, [searchTerm]);
 
   const handleOpenPopup = () => setOpenPopup(true);
@@ -56,48 +67,59 @@ const Country = () => {
 
   const handleInputChange = (e) => {
     const { name, value } = e.target;
-    setNewEntry(prevState => ({
+    setNewEntry((prevState) => ({
       ...prevState,
-      [name]: value
+      [name]: value,
     }));
   };
 
   const handleImageUpload = (e) => {
     const files = Array.from(e.target.files);
-    const newImages = files.map(file => URL.createObjectURL(file));
-    setNewEntry(prevState => ({
+    const newImages = files.map((file) => URL.createObjectURL(file));
+    setNewEntry((prevState) => ({
       ...prevState,
-      images: [...prevState.images, ...newImages]
+      images: [...(prevState.images || []), ...newImages],
     }));
   };
 
   const handleDeleteImage = (index) => {
-    setNewEntry(prevState => ({
+    setNewEntry((prevState) => ({
       ...prevState,
-      images: prevState.images.filter((_, i) => i !== index)
+      images: prevState.images.filter((_, i) => i !== index),
     }));
   };
 
   const handleAddEntry = () => {
-    const { country_name, region, placename, description, main_island, images } = newEntry;
+    const {
+      country_name,
+      region,
+      placename,
+      description,
+      main_island,
+      images,
+    } = newEntry;
 
-    if (country_name && region && placename && description && main_island && images.length > 0) {
-      setDisplayedData(prevData => [...prevData, newEntry]);
-      setAllCountryData(prevData => [...prevData, newEntry]);
+    if (country_name && region && placename && description && main_island) {
+      const newLocation = {
+        ...newEntry,
+        images: images || [], // Ensure images is always an array
+      };
+      setDisplayedData((prevData) => [...prevData, newLocation]);
+      setAllCountryData((prevData) => [...prevData, newLocation]);
       setNewEntry({
         country_name: "",
         region: "",
         placename: "",
         description: "",
         main_island: "",
-        images: []
+        images: [],
       });
       handleClosePopup();
     } else {
       Swal.fire({
-        text: 'All fields must be filled out before adding a new place.',
-        icon: 'warning',
-        confirmButtonText: 'Okay'
+        text: "All fields except images must be filled out before adding a new place.",
+        icon: "warning",
+        confirmButtonText: "Okay",
       });
     }
   };
@@ -131,19 +153,20 @@ const Country = () => {
               borderBottom: "1px solid #D3D3D3",
             }}
           >
-            <Link to='/login' style={{ textDecoration: "none" }}>
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                padding: "0px 30px",
-                cursor: "pointer",
-                color:'gray'
-              }}
-            >
-              <span className="px-2 py-2 text-md font-Manrope">Login</span>
-              <PersonIcon/>
-            </div></Link>
+            <Link to="/login" style={{ textDecoration: "none" }}>
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  padding: "0px 30px",
+                  cursor: "pointer",
+                  color: "gray",
+                }}
+              >
+                <span className="px-2 py-2 text-md font-Manrope">Login</span>
+                <PersonIcon />
+              </div>
+            </Link>
           </nav>
           <div
             style={{
@@ -154,7 +177,10 @@ const Country = () => {
             }}
           >
             <div style={formContainerStyle}>
-              <h2 className="text-xl font-Inter font-semibold pt-2" style={{ textAlign: "left", marginBottom: "20px" }}>
+              <h2
+                className="text-xl font-Inter font-semibold pt-2"
+                style={{ textAlign: "left", marginBottom: "20px" }}
+              >
                 Search Country
               </h2>
               <form
@@ -165,7 +191,11 @@ const Country = () => {
                   width: "100%",
                 }}
               >
-                <label className="font-Manrope" htmlFor="country" style={labelStyle}>
+                <label
+                  className="font-Manrope"
+                  htmlFor="country"
+                  style={labelStyle}
+                >
                   Country Name
                 </label>
                 <input
@@ -211,11 +241,18 @@ const Country = () => {
                   alignItems: "center",
                 }}
               >
-                <h2 className="text-xl font-Inter font-semibold pt-2" style={{ textAlign: "left", marginBottom: "20px" }}>
+                <h2
+                  className="text-xl font-Inter font-semibold pt-2"
+                  style={{ textAlign: "left", marginBottom: "20px" }}
+                >
                   Add Country
                 </h2>
                 <div style={{ width: "100%", maxWidth: "100px" }}>
-                  <button type="submit" onClick={handleOpenPopup} style={buttonStyle}>
+                  <button
+                    type="submit"
+                    onClick={handleOpenPopup}
+                    style={buttonStyle}
+                  >
                     Add
                   </button>
                 </div>
@@ -230,7 +267,7 @@ const Country = () => {
                 />
               )}
 
-              {displayedData.length > 0 ? (
+              {displayedData && displayedData.length > 0 ? (
                 <TableContainer component={Paper}>
                   <Table>
                     <TableHead>
@@ -252,9 +289,38 @@ const Country = () => {
                           <TableCell>{location.description}</TableCell>
                           <TableCell>{location.main_island}</TableCell>
                           <TableCell>
-                            {location.images.map((image, idx) => (
-                              <img key={idx} src={image} alt={`Place ${idx}`} style={{ width: '50px', height: '50px', marginRight: '5px' }} />
-                            ))}
+                            {location.images && location.images.length > 0 ? (
+                              <div className="image-container">
+                                <img
+                                  src={location.images[0]}
+                                  alt={`Place 0`}
+                                  style={{
+                                    width: "50px",
+                                    height: "50px",
+                                    borderRadius: "5px",
+                                  }}
+                                />
+                                {location.images.length > 1 && (
+                                  <div className="image-popup">
+                                    {location.images.map((image, idx) => (
+                                      <img
+                                        key={idx}
+                                        src={image}
+                                        alt={`Place ${idx}`}
+                                        style={{
+                                          width: "150px",
+                                          height: "150px",
+                                          margin: "5px",
+                                          borderRadius: "10px",
+                                        }}
+                                      />
+                                    ))}
+                                  </div>
+                                )}
+                              </div>
+                            ) : (
+                              <span>No images available</span>
+                            )}
                           </TableCell>
                         </TableRow>
                       ))}
@@ -262,14 +328,18 @@ const Country = () => {
                   </Table>
                 </TableContainer>
               ) : (
-                <p className="font-Manrope text-sm">No country to display. Please perform a search or add country.</p>
+                <p className="font-Manrope text-sm">
+                  No country to display. Please perform a search or add country.
+                </p>
               )}
             </div>
           </div>
         </div>
       </div>
       <Dialog open={openPopup} onClose={handleClosePopup}>
-        <DialogTitle className="text-xl font-Inter font-semibold pt-2" >Add New Place</DialogTitle>
+        <DialogTitle className="text-xl font-Inter font-semibold pt-2">
+          Add New Place
+        </DialogTitle>
         <DialogContent>
           <TextField
             autoFocus
@@ -319,27 +389,38 @@ const Country = () => {
           />
           <input
             accept="image/*"
-            style={{ display: 'none' }}
+            style={{ display: "none" }}
             id="image-upload"
             type="file"
             multiple
             onChange={handleImageUpload}
           />
           <label htmlFor="image-upload">
-            <Button variant="contained" component="span" style={{ marginTop: '10px', marginBottom: '10px' }}>
+            <Button
+              variant="contained"
+              component="span"
+              style={{ marginTop: "10px", marginBottom: "10px" }}
+            >
               Upload Images
             </Button>
           </label>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "10px" }}>
             {newEntry.images.map((image, index) => (
-              <div key={index} style={{ position: 'relative', display: 'inline-block' }}>
-                <img src={image} alt={`Upload ${index}`} style={{ width: '100px', height: '100px' }} />
+              <div
+                key={index}
+                style={{ position: "relative", display: "inline-block" }}
+              >
+                <img
+                  src={image}
+                  alt={`Upload ${index}`}
+                  style={{ width: "100px", height: "100px" }}
+                />
                 <Button
                   variant="contained"
                   color="secondary"
                   size="small"
                   onClick={() => handleDeleteImage(index)}
-                  style={{ position: 'absolute', top: '5px', right: '5px' }}
+                  style={{ position: "absolute", top: "5px", right: "5px" }}
                 >
                   Delete
                 </Button>
@@ -347,9 +428,13 @@ const Country = () => {
             ))}
           </div>
         </DialogContent>
-        <DialogActions style={{ padding: '20px 20px' }}>
-          <Button onClick={handleClosePopup} style={buttonStyle}>Cancel</Button>
-          <Button onClick={handleAddEntry} style={buttonStyle}>Add</Button>
+        <DialogActions style={{ padding: "20px 20px" }}>
+          <Button onClick={handleClosePopup} style={buttonStyle}>
+            Cancel
+          </Button>
+          <Button onClick={handleAddEntry} style={buttonStyle}>
+            Add
+          </Button>
         </DialogActions>
       </Dialog>
     </Fragment>

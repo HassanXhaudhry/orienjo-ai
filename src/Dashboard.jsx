@@ -37,11 +37,12 @@ const Dashboard = () => {
   });
 
   useEffect(() => {
-    const flattenedData = Object.entries(rawData).flatMap(
+    const flattenedData = Object.entries(rawData || {}).flatMap(
       ([countryName, locations]) =>
-        locations.map((location) => ({
+        (locations || []).map((location) => ({
           ...location,
           country_name: countryName,
+          images: location.images || [], // Ensure images is always an array
         }))
     );
     setAllCountryData(flattenedData);
@@ -54,18 +55,24 @@ const Dashboard = () => {
     } else {
       const filteredData = allCountryData.filter(
         (item) =>
-          item.country_name.toLowerCase().includes(country.toLowerCase()) &&
-          item.region.toLowerCase().includes(region.toLowerCase())
+          (item?.country_name || "")
+            .toLowerCase()
+            .includes(country.toLowerCase()) &&
+          (item?.region || "").toLowerCase().includes(region.toLowerCase())
       );
-      setDisplayedData(filteredData);
+      setDisplayedData(filteredData || []);
     }
   };
 
   useEffect(() => {
-    const filteredResults = displayedData.filter((location) =>
-      location.country_name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    setDisplayedData(filteredResults);
+    if (displayedData && displayedData.length > 0) {
+      const filteredResults = displayedData.filter((location) =>
+        (location?.country_name || "")
+          .toLowerCase()
+          .includes(searchTerm.toLowerCase())
+      );
+      setDisplayedData(filteredResults);
+    }
   }, [searchTerm]);
 
   const handleOpenPopup = () => setOpenPopup(true);
@@ -84,7 +91,7 @@ const Dashboard = () => {
     const newImages = files.map((file) => URL.createObjectURL(file));
     setNewEntry((prevState) => ({
       ...prevState,
-      images: [...prevState.images, ...newImages],
+      images: [...(prevState.images || []), ...newImages],
     }));
   };
 
@@ -105,16 +112,13 @@ const Dashboard = () => {
       images,
     } = newEntry;
 
-    if (
-      country_name &&
-      region &&
-      placename &&
-      description &&
-      main_island &&
-      images.length > 0
-    ) {
-      setDisplayedData((prevData) => [...prevData, newEntry]);
-      setAllCountryData((prevData) => [...prevData, newEntry]);
+    if (country_name && region && placename && description && main_island) {
+      const newLocation = {
+        ...newEntry,
+        images: images || [], // Ensure images is always an array
+      };
+      setDisplayedData((prevData) => [...prevData, newLocation]);
+      setAllCountryData((prevData) => [...prevData, newLocation]);
       setNewEntry({
         country_name: "",
         region: "",
@@ -126,7 +130,7 @@ const Dashboard = () => {
       handleClosePopup();
     } else {
       Swal.fire({
-        text: "All fields must be filled out before adding a new place.",
+        text: "All fields except images must be filled out before adding a new place.",
         icon: "warning",
         confirmButtonText: "Okay",
       });
@@ -276,7 +280,7 @@ const Dashboard = () => {
                 />
               )}
 
-              {displayedData.length > 0 ? (
+              {displayedData && displayedData.length > 0 ? (
                 <TableContainer component={Paper}>
                   <Table>
                     <TableHead>
@@ -298,23 +302,39 @@ const Dashboard = () => {
                           <TableCell>{location.description}</TableCell>
                           <TableCell>{location.main_island}</TableCell>
                           <TableCell>
-  {location.images.length > 0 && (
-    <div className="image-container">
-      <img 
-        src={location.images[0]} 
-        alt={`Place 0`} 
-        style={{ width: '50px', height: '50px' }} 
-      />
-      {location.images.length > 1 && (
-        <div className="image-popup">
-          {location.images.map((image, idx) => (
-            <img key={idx} src={image} alt={`Place ${idx}`} style={{ width: '100px', height: '100px', margin: '5px' }} />
-          ))}
-        </div>
-      )}
-    </div>
-  )}
-</TableCell>
+                            {location.images && location.images.length > 0 ? (
+                              <div className="image-container">
+                                <img
+                                  src={location.images[0]}
+                                  alt={`Place 0`}
+                                  style={{
+                                    width: "50px",
+                                    height: "50px",
+                                    borderRadius: "5px",
+                                  }}
+                                />
+                                {location.images.length > 1 && (
+                                  <div className="image-popup">
+                                    {location.images.map((image, idx) => (
+                                      <img
+                                        key={idx}
+                                        src={image}
+                                        alt={`Place ${idx}`}
+                                        style={{
+                                          width: "150px",
+                                          height: "150px",
+                                          margin: "5px",
+                                          borderRadius: "10px",
+                                        }}
+                                      />
+                                    ))}
+                                  </div>
+                                )}
+                              </div>
+                            ) : (
+                              <span>No images available</span>
+                            )}
+                          </TableCell>
                         </TableRow>
                       ))}
                     </TableBody>
