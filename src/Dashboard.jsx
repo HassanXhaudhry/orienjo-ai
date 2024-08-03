@@ -34,6 +34,7 @@ const Dashboard = () => {
     description: "",
     main_island: "",
     images: [],
+    random_image_link: "",
   });
 
   useEffect(() => {
@@ -42,7 +43,7 @@ const Dashboard = () => {
         (locations || []).map((location) => ({
           ...location,
           country_name: countryName,
-          images: location.images || [], // Ensure images is always an array
+          images: location.images || [],
         }))
     );
     setAllCountryData(flattenedData);
@@ -112,10 +113,16 @@ const Dashboard = () => {
       images,
     } = newEntry;
 
-    if (country_name && region && placename && description && main_island) {
+    if (
+      country_name &&
+      region &&
+      placename &&
+      description &&
+      main_island
+    ) {
       const newLocation = {
         ...newEntry,
-        images: images || [], // Ensure images is always an array
+        images: images || [],
       };
       setDisplayedData((prevData) => [...prevData, newLocation]);
       setAllCountryData((prevData) => [...prevData, newLocation]);
@@ -126,6 +133,7 @@ const Dashboard = () => {
         description: "",
         main_island: "",
         images: [],
+        random_image_link: "",
       });
       handleClosePopup();
     } else {
@@ -245,7 +253,7 @@ const Dashboard = () => {
               </form>
             </div>
 
-            {/* New Search and Table Section */}
+           
             <div style={{ ...formContainerStyle, marginTop: "20px" }}>
               <div
                 style={{
@@ -291,6 +299,7 @@ const Dashboard = () => {
                         <TableCell>Description</TableCell>
                         <TableCell>Main Island</TableCell>
                         <TableCell>Images</TableCell>
+                        <TableCell>Image Link</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -333,6 +342,19 @@ const Dashboard = () => {
                               </div>
                             ) : (
                               <span>No images available</span>
+                            )}
+                          </TableCell>
+                          <TableCell>
+                            {location.random_image_link ? (
+                              <a className="underline"
+                                href={location.random_image_link}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                              >
+                                Image
+                              </a>
+                            ) : (
+                              "No link available"
                             )}
                           </TableCell>
                         </TableRow>
@@ -400,6 +422,15 @@ const Dashboard = () => {
             value={newEntry.main_island}
             onChange={handleInputChange}
           />
+          <TextField
+            margin="dense"
+            name="random_image_link"
+            label="Random Image Link"
+            type="text"
+            fullWidth
+            value={newEntry.random_image_link}
+            onChange={handleInputChange}
+          />
           <input
             accept="image/*"
             style={{ display: "none" }}
@@ -453,6 +484,7 @@ const Dashboard = () => {
     </Fragment>
   );
 };
+
 
 const formContainerStyle = {
   width: "100%",

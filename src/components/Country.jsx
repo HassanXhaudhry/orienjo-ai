@@ -29,7 +29,7 @@ const Country = () => {
         (locations || []).map((location) => ({
           ...location,
           country_name: countryName,
-          images: location.images || [], // Ensure images is always an array
+          images: location.images || [],
         }))
     );
     setAllCountryData(flattenedData);
